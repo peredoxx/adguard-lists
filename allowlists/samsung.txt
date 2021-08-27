@@ -1,0 +1,22 @@
+! -------------------------------------[INFO]---------------------------------------
+!
+! Titel: Samsung
+!
+! cdn.samsungcloudsolution.com (Netzwerk Allgemein) ist diese gesperrt geht fast nichts mehr und der TV hat für ihn keine Verbindung. Alle Apps laufen und Streaming geht.
+! osb.samsungqbe.com (Samsung Account) ist für die Anmeldung zuständig ist diese geblockt kannst du dich nicht anmelden mit dem Samsung Account.
+! samsungads.com (Werbung) entfernt zuverlässig die Werbekachel
+! samsungotn.net (Update) verhindert das suchen und installieren von Firmewareupdates
+! osb-eusvc.samsungqbe.com (App Suche) ist für die App suche im AppStore zuständig ist diese geblockt kommt bei der Suche Serverfehler.
+! osb-apps.samsungqbe.com ( App Installation) ist die geblockt kann man keine Apps installieren und es werden auch keine zwangs Apps installiert
+! svoice-vd-op.samsung-svoice.com (Sprachsteuerung) wenn man die Microtaste drückt um z.B. den Sleeptimer per Sparche zu aktivieren.
+! stats.hbbtv.smartclip.net (hbbTV Werbung) verhindert die Einbelndung nach dem Programmwechsel z.B. Red Button Werbung. Vorteil man kann hbbTV aktiviert lassen aber man bekommt nicht die Werbung und hbbTV funktioniert dennoch
+! lcprd1.samsungcloudsolution.net diese hier ist mir ein Rätsel und würde gern wissen was die petzt, denn das ist mit die häufigste Anfrage.
+!
+! ------------------------------------[FILTERS]-------------------------------------
+||cdn.samsungcloudsolution.com^
+||osb.samsungqbe.com^
+||samsungotn.net^
+||osb-eusvc.samsungqbe.com^
+||osb-apps.samsungqbe.com^
+||svoice-vd-op.samsung-svoice.com^
+||lcprd1.samsungcloudsolution.net^
