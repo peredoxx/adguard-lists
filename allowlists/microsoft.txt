@@ -17,5 +17,5 @@
 ||weus2watcab01.blob.core.windows.net^
 ||self.events.data.microsoft.com^
 ||download.visualstudio.microsoft.com^
-||arc.msn.com^
 ||insideruser.microsoft.com^
+||arc.msn.com^
