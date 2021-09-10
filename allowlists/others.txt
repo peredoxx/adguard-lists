@@ -1,0 +1,13 @@
+! -------------------------------------[INFO]---------------------------------------
+!
+! Titel: Others
+!
+! ------------------------------------[FILTERS]-------------------------------------
+@@||phicdn.net^$important
+@@||googleapis.com^$important
+@@||media-exp1.licdn.com^$important
+@@||amazonaws.com^$important
+@@||wieistmeineip.de^$important
+@@||ecosia.org^$important
+@@||api.speedspot.org^$important
+@@||a1.etrality.com^$important
