@@ -18,3 +18,4 @@
 ||self.events.data.microsoft.com^
 ||download.visualstudio.microsoft.com^
 ||arc.msn.com^
+||insideruser.microsoft.com^
