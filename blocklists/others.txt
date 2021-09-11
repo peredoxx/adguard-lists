@@ -3,4 +3,4 @@
 ! Titel: Others
 !
 ! ------------------------------------[FILTERS]-------------------------------------
-||graph.facebook.com^$important
+||graph.facebook.com^
