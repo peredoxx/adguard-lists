@@ -19,3 +19,4 @@
 ||download.visualstudio.microsoft.com^
 ||insideruser.microsoft.com^
 ||arc.msn.com^
+||msftconnecttest.com^
