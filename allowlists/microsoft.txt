@@ -20,4 +20,5 @@
 ||insideruser.microsoft.com^
 ||arc.msn.com^
 ||msftconnecttest.com^
+||microsoft.com^
 
