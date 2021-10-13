@@ -16,6 +16,7 @@
 ||dl.delivery.mp.microsoft.com^
 ||weus2watcab01.blob.core.windows.net^
 ||self.events.data.microsoft.com^
+||js.monitor.azure.com^
 ||settings-win.data.microsoft.com^
 ||download.visualstudio.microsoft.com^
 ||insideruser.microsoft.com^
