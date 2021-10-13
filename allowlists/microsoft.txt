@@ -26,3 +26,6 @@
 ||trafficmanager.net^
 ||t-msedge.net^
 ||azureedge.net^
+||akamaiedge.net^
+||msauth.net^
+||akadns.net^
