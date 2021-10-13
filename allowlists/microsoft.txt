@@ -20,12 +20,3 @@
 ||insideruser.microsoft.com^
 ||arc.msn.com^
 ||msftconnecttest.com^
-||microsoft.com^
-||azure.com^
-||msedge.net^
-||trafficmanager.net^
-||t-msedge.net^
-||azureedge.net^
-||akamaiedge.net^
-||msauth.net^
-||akadns.net^
