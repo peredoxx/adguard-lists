@@ -13,11 +13,11 @@
 ||nexusrules.officeapps.live.com^
 ||officecdn.microsoft.com^
 ||launchercontent.mojang.com^
-||dl.delivery.mp.microsoft.com^
-||weus2watcab01.blob.core.windows.net^
-||self.events.data.microsoft.com^
+!||dl.delivery.mp.microsoft.com^
+!||weus2watcab01.blob.core.windows.net^
+!||self.events.data.microsoft.com^
 ||download.visualstudio.microsoft.com^
-!||insideruser.microsoft.com^
+||insideruser.microsoft.com^
 !||arc.msn.com^
 !||msftconnecttest.com^
 !||umwatson.events.data.microsoft.com^
@@ -26,5 +26,5 @@
 !||ceuswatcab01.blob.core.windows.net^
 !||activity.windows.com^
 ||trafficmanager.net^
-||microsoft.com^
+!||microsoft.com^
 !||live.com^
