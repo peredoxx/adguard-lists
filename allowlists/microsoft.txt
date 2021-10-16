@@ -23,3 +23,5 @@
 ||umwatson.events.data.microsoft.com^
 ||settings-win.data.microsoft.com^
 ||dmd.metaservices.microsoft.com^
+||ceuswatcab01.blob.core.windows.net^
+||activity.windows.com^
