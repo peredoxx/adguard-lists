@@ -25,3 +25,6 @@
 ||dmd.metaservices.microsoft.com^
 ||ceuswatcab01.blob.core.windows.net^
 ||activity.windows.com^
+||trafficmanager.net^
+||microsoft.com^
+||live.com^
