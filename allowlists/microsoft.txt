@@ -20,3 +20,5 @@
 ||insideruser.microsoft.com^
 ||arc.msn.com^
 ||msftconnecttest.com^
+||umwatson.events.data.microsoft.com^
+||settings-win.data.microsoft.com^
