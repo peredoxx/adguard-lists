@@ -11,3 +11,4 @@
 @@||ecosia.org^
 @@||api.speedspot.org^
 @@||a1.etrality.com^
+@@||synology.com^
