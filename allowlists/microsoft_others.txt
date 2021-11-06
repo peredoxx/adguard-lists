@@ -5,3 +5,4 @@
 ! ------------------------------------[FILTERS]-------------------------------------
 ||launchercontent.mojang.com^
 ||download.visualstudio.microsoft.com^
+||microsoft.com^
