@@ -1,0 +1,7 @@
+! -------------------------------------[INFO]---------------------------------------
+!
+! Titel: Microsoft others
+!
+! ------------------------------------[FILTERS]-------------------------------------
+||launchercontent.mojang.com^
+||download.visualstudio.microsoft.com^

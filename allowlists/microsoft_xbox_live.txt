@@ -1,0 +1,25 @@
+! -------------------------------------[INFO]---------------------------------------
+!
+! Titel: Microsoft Xbox Live Gaming
+!
+! ------------------------------------[FILTERS]-------------------------------------
+@@||xboxservices.com^
+@@||xboxlive.com^
+@@||xboxab.com^
+@@||gamepass.com^
+@@||azure.com^
+@@||azurefd.net^
+@@||edgesuite.net^
+@@||edgekey.net^
+@@||akamai.net^
+@@||akadns.net^
+@@||akamaiedge.net^
+@@||akamaized.net^
+@@||braze.com^
+@@||msn.com^
+@@||fb-t-msedge.net^
+@@||t-msedge.net^
+@@||e-msedge.net^
+@@||msedge.net^
+@@||akagtm.org^
+@@||gtld-servers.net^
