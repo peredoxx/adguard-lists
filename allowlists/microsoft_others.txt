@@ -6,3 +6,7 @@
 ||launchercontent.mojang.com^
 ||download.visualstudio.microsoft.com^
 ||microsoft.com^
+||live.com^
+||1drv.com^
+||dc-msedge.net^
+||l-msedge.net^
